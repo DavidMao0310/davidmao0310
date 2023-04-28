@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Fake Psychologist</h3>
+<h1 align="center">Hi 👋, nice to see you</h1>
 
 - 🔭 I’m currently learning **alpha strategy, portfolio optimisation**
 
