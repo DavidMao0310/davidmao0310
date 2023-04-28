@@ -5,7 +5,7 @@
 
 - 🏫 Graduated from **London School of Economics (LSE)**
 
-- 📝 Research interest [Stochastic Financial Mathematics]
+- 📝 Research interest **Stochastic Financial Mathematics**
 
 - 💬 Ask me about **Anything!**
 
